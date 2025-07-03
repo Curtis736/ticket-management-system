@@ -11,4 +11,14 @@ coverage
 client/node_modules
 server/node_modules
 client/build
-server/database/*.db 
+server/database/*.db
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+.cache
+.vscode
+.idea
+*.swp
+*.swo
+*~ 
